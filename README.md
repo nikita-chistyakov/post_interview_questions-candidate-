@@ -1,4 +1,4 @@
-# interview_questions
+# questions to ask your interviewer:
 
 📌 Questions to Ask HR After Interview
 
